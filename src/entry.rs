@@ -1,5 +1,2 @@
-use hdk::prelude::*;
+// use zome_call;
 
-entry_defs![
-
-];

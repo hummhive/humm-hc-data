@@ -1,0 +1,7 @@
+---
+manifest_version: "1"
+name: humm_hc_data
+properties: ~
+zomes:
+  - name: humm_hc_data
+    bundled: ../target/wasm32-unknown-unknown/release/humm_hc_data.wasm
